@@ -1,3 +1,13 @@
+/*
+TITLE: Implement all the functions of a dictionary (ADT) using hashing and handle collision using
+chaining with / without replacement. Data: Set of (key, value) pairs, Keys are mapped to values, keys
+must be comparable, keys must be unique.
+Standard Operations:
+Insert (key, value),
+Find (key),
+Delete (key)
+*/
+
 #include<iostream>
 #include<cstdlib>
 #include<string>
